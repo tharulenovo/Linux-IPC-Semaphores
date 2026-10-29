@@ -103,6 +103,7 @@ for (int i = 0; i < NUM_LOOPS; i++) {
 
 ## OUTPUT
 $ ./sem.o 
+
 <img width="502" height="579" alt="image" src="https://github.com/user-attachments/assets/de52af89-e6b2-40ae-88c0-22e8a537d3dc" />
 
 $ ipcs
